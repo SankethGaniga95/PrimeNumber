@@ -1,1 +1,1 @@
-# PrimeNumber and Palindrome
+# PrimeNumber 
