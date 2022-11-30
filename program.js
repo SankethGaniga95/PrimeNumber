@@ -1,7 +1,7 @@
 let num=13;
 let count=0;
     for(i=1;i<=mum;i++){
-        if(mum%i==0){
+        if(num%i==0){
             count++;
         }
     }if(count==2){
